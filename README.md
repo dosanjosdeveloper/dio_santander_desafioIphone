@@ -24,3 +24,6 @@ Watch the iPhone launch video to understand the main features.
 Use a UML tool of your choice to create the class and interface diagram. You can use the model above (created in Mermaid syntax), an open-source alternative compatible with Markdown files like this one.
 Optionally, if you are confident, you can implement the Java classes represented in your UML diagram.
 Submit your GitHub repository according to the DIO platform guidelines. For example:
+
+## Consultar Pojeto
+![UML IPHONE](ModelagemIphone/IphoneDiagrama.png)
